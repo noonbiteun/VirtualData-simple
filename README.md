@@ -1,6 +1,5 @@
 
 # VirtualData-simple
-![](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
 一种加载超大数据块的解决方案（简单版本，单线程单缓存）
